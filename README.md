@@ -1,4 +1,4 @@
-## soft-Project
+## Cyclone? Where Do I Go?
 Our idea focuses on *reducing the number of people that get stranded in the event of cyclones*.
 A significant amount of relief efforts are directed towards search-and-rescue operations for stranded persons in disaster affected areas.
 Despite the establishment of cyclone shelters, majority of the population does not have a clue on their location and how to reach them. 
